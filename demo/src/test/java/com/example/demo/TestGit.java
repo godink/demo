@@ -11,6 +11,7 @@ public class TestGit {
 		fail("Not yet implemented");
 		System.out.println("test the branch dev");
 		System.out.println(2);
+		System.out.println(1);
 	}
 
 }
