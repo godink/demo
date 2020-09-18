@@ -10,6 +10,7 @@ public class TestGit {
 	public void test() {
 		fail("Not yet implemented");
 		System.out.println("test the branch dev");
+		System.out.println(1);
 	}
 
 }
